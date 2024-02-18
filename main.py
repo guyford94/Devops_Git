@@ -1,2 +1,2 @@
-name = "Guy"
+name = "Nos"
 ptint(name)
